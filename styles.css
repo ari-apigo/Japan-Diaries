@@ -23,13 +23,31 @@ body {
   width: 80%;
 }
 
-h1, h2, h3, header {
+h1, h2, h3 {
   font-family: "Pacifico", sans-serif;
   font-weight: lighter;
+  font-size: 20px;
+}
+
+header {
+  font-family: "Pacifico", sans-serif;
+  font-weight: lighter;
+  font-size: 50px;
 }
 
 aside {
   float: right;
   background-color: peachpuff;
-  border: white;
+  border: solid 5px;
+  border-color: white;
+}
+
+section {
+  background-color: peachpuff;
+  border: solid 5px;
+  border-color: white;
+}
+
+img {
+  width: 500px;
 }
