@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>dear japan</title>
+  </head>
+  <body>
+    <section>
+      <h1>dear japan...</h1>
+      <p>I have been studying the Japanese language since 9th grade. It is actually
+        my 3rd language after Korean, which I studied on my own (and can now barely speak).
+        Originally, I always wanted to study Korean in a proper educational setting,
+        but upon entering university, I found myself already too deep into Japanese.</p>
+      <p>In 2017, I travelled to Japan for the first time with my high school Japanese
+        language teacher and a small group of classmates. That trip changed my life;
+        I fell in love with the beautiful country and have become interested in working
+        there professionally in the future. Since then, I have been keen on returning
+        to Japan, and I did two years later.</p>
+      <p>But another two weeks wasn't enough. I dream of one day visiting all 47
+        prefectures (similar to states or provinces) of Japan, but if two weeks
+        could only cover a small part of Tokyo, how long would such a journey last?</p>
+      <p>Follow my journey through this online documentation of my travels to Japan!</p>
+    </section>
+  </body>
+</html>
