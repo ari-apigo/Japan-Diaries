@@ -30,4 +30,6 @@ h1, h2, h3, header {
 
 aside {
   float: right;
+  background-color: peachpuff;
+  border: white;
 }
