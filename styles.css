@@ -52,7 +52,6 @@ span {
 aside {
   /* The following site was consulted:
   https://developer.mozilla.org/en-US/docs/Web/CSS/position */
-  position: -webkit-sticky;
   position: sticky;
   top: -1px;
   margin: 5px;
