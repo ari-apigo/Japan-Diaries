@@ -1,0 +1,71 @@
+/*
+  Name: Ariane Apigo
+  Date: 2019 September 30
+  Section: AA / Chao Hsu Lin
+
+  This is the styles.css page for my blog-style site. It is used by all pages
+  on my site to give it a consistent appearance.
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+body {
+  background-color: mistyrose;
+  font-family: "Nunito", "Calibri", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+header {
+  font-family: "Sacramento", sans-serif;
+  font-size: 75px;
+}
+
+h1, h2, h3 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+span {
+  /* The following site was consulted:
+  https://stackoverflow.com/questions/12438339/how-may-i-align-text-to-the-left-and-text-to-the-
+  right-in-the-same-line */
+  float: right;
+}
+
+aside {
+  /* The following site was consulted:
+  https://developer.mozilla.org/en-US/docs/Web/CSS/position */
+  position: sticky;
+  top: -1px;
+}
+
+nav li {
+  /* The following site was consulted:
+  https://www.sitepoint.com/community/t/space-between-links-in-navbar/7949/2 */
+  display: inline;
+  padding-right: 10px;
+}
+
+section, article, aside {
+  margin: 5px;
+  padding: 10px;
+  background-color: peachpuff;
+  border: solid 5px;
+  border-color: white;
+}
+
+img {
+  width: 500px;
+}
